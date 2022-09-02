@@ -1,1 +1,1 @@
-First Readme
+# 0X00. Shell, basics
